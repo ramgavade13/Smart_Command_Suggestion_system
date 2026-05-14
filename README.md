@@ -38,23 +38,6 @@
 | 🤖 AI-like | Real-time intelligent suggestions |
 | 🔧 Automation | System operations in one command |
 
----
-root
-    /  \
-   o    s
-   |    |
-   p    h
-   |   / \
-   e  u   a
-   n  t   r
-   |  d   e
-  ...  own  ...
-  > Each node = one character → Fast prefix search = Real-time suggestions!
 
----
 
-<div align="center">
 
-> *"Code is not just instructions — it's automation magic."* 🧠✨
-
-</div>
